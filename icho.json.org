@@ -1,0 +1,5 @@
+{
+	"pages": [ "https://kusaremkn.com/" ],
+	"index": { "https://kusaremkn.com/": 0 },
+	"links": { }
+}
