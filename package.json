@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/KusaReMKN/linknet#readme",
   "dependencies": {
-    "puppeteer": "^22.2.0"
+    "puppeteer": "^22.15.0"
   }
 }
